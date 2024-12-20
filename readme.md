@@ -1,7 +1,4 @@
 # Sistem Informasi Masjid By IkoAlmasDevGame
-
-<h1>Sistem Informasi Masjid By IkoAlmasDevGame</h1>
-<br>
 <h3>Sistem Requirement :</h3>
 <br>
 <ol type=1>
