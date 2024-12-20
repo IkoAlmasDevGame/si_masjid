@@ -23,16 +23,16 @@
 <h3>Fitur - Fitur Aplikasi :</h3>
 <br>
 <ol type=1>
-    <li>Halaman Frontend<li>
-    <li>Login Multi User<li>
-    <li>Dashboard<li>
-    <li>Pegawai<li>
-    <li>Kegiatan<li>
-    <li>Susunan Pengurus<li>
-    <li>Donasi<li>
-    <li>Laporan Keuangan<li>
-    <li>Rekening Bank<li>
-    <li>Profile Website<li>
-    <li>Edit Profile<li>
-    <li>Log Out<li>
+    <li>Halaman Frontend</li>
+    <li>Login Multi User</li>
+    <li>Dashboard</li>
+    <li>Pegawai</li>
+    <li>Kegiatan</li>
+    <li>Susunan Pengurus</li>
+    <li>Donasi</li>
+    <li>Laporan Keuangan</li>
+    <li>Rekening Bank</li>
+    <li>Profile Website</li>
+    <li>Edit Profile</li>
+    <li>Log Out</li>
 </ol>
